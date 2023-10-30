@@ -1,0 +1,21 @@
+Python 3.10.9
+Essentia
+numpy 1.16.3
+librosa==0.7.2
+Piano_ Translation_ Inference
+Beautiful Soup 4.0
+matplotlib 3.1.1
+torch 1.9.0
+libsndfile1
+beautifulsoup4==4.9.1
+nltk==3.5
+piano_transcription_inference
+youtube-dl
+h5py==2.10.0
+pandas==1.1.2
+numba==0.48
+mido==1.2.9
+mir_eval==0.5
+matplotlib==3.0.3
+torchlibrosa==0.0.4
+sox==1.4.0
